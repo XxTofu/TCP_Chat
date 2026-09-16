@@ -116,16 +116,7 @@ Messages from other users appear on the left.
 
 System notifications are displayed separately.
 
-Example:
 
-                    ┌───────────────────┐
-                    │ Hello everyone!   │
-                    └───────────────────┘
-
-┌─────────────────────┐
-│ Alice               │
-│ Hey Bob!            │
-└─────────────────────┘
 
 💾 Chat History
 
@@ -310,37 +301,6 @@ The application currently targets desktop environments supported by Tkinter.
 
 Message timestamps shown for loaded history represent the time they are displayed rather than necessarily the original message time.
 
-📜 License
-
-This project is available under the MIT License.
-
-You can add a LICENSE file containing the standard MIT License text if you intend to distribute the project publicly.
-
 🤝 Contributing
 
 Contributions are welcome!
-
-Fork the repository.
-
-Create a feature branch:
-
-git checkout -b feature/my-feature
-
-
-Commit your changes:
-
-git commit -m "Add my feature"
-
-
-Push the branch:
-
-git push origin feature/my-feature
-
-
-Open a Pull Request.
-
-⭐ Support
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
-
-Built with Python 🐍 and TCP sockets ⚡
